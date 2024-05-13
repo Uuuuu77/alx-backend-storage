@@ -1,0 +1,3 @@
+# NoSQL
+
+Welcome to NoSQL! NoSQL, which stands for "Not Only SQL," refers to a family of databases that use non-relational data models, providing flexibility, scalability, and performance for handling large volumes of unstructured or semi-structured data. Unlike traditional SQL databases, NoSQL databases are schema-less and can store data in various formats such as key-value pairs, documents, columns, or graphs. In this repository, you'll find projects and best practices for understanding and working with NoSQL databases, empowering you to harness the power of NoSQL for your data storage needs.
